@@ -1,4 +1,4 @@
-# MockPixel8Algoritms
+# MockPixel8Algorithms
 
 
 Here are a few algorithms that can be implemented to optimize battery usage on the Pixel 8:
